@@ -7,3 +7,6 @@
 
 
 /profile linkedin: https://www.linkedin.com/in/isaque-andrade-2113581a4/
+
+
+/linguagem utilizada: html
